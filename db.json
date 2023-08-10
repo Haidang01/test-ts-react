@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": 100,
+      "img": "https://picsum.photos/id/1/200/100"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 200,
+      "img": "https://picsum.photos/id/1/200/100"
+    },
+    {
+      "img": "https://picsum.photos/id/1/200/100",
+      "name": "Hoàng2",
+      "price": "1000",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "user1@gmail.com",
+      "password": "123456",
+      "role": 1
+    },
+    {
+      "id": 2,
+      "email": "user2@gmail.com",
+      "password": "654321",
+      "role": 2
+    },
+    {
+      "email": "vuhonghaidang15@gmail.com",
+      "password": "$2a$10$rio3sG4YXZlQkeYtq.zA6Ogbb7XyW02hl37qRi7aIWqZNqWPavjv6",
+      "role": "1",
+      "id": 3
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "name": "admin"
+    },
+    {
+      "id": 2,
+      "name": "user"
+    }
+  ]
+}
